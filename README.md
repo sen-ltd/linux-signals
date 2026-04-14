@@ -59,3 +59,10 @@ npm run serve     # Start local HTTP server on port 8080
 ## License
 
 MIT License — Copyright (c) 2026 SEN LLC (SEN 合同会社)
+
+<!-- sen-publish:links -->
+## Links
+
+- 🌐 Demo: https://sen.ltd/portfolio/linux-signals/
+- 📝 dev.to: https://dev.to/sendotltd/a-searchable-linuxposix-signal-reference-why-sigrtmin-is-34-not-32-4f9d
+<!-- /sen-publish:links -->
